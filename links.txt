@@ -1,5 +1,6 @@
 https://github.com/AutoFixture/AutoFixture
 https://fluentassertions.com/objectgraphs/
+https://github.com/bchavez/Bogus
 
 https://marketplace.visualstudio.com/items?itemName=ErosFratini.ClippyVS
 https://www.draw.io
