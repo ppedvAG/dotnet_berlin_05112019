@@ -1,5 +1,9 @@
+https://github.com/AutoFixture/AutoFixture
+https://fluentassertions.com/objectgraphs/
+
 https://marketplace.visualstudio.com/items?itemName=ErosFratini.ClippyVS
 https://www.draw.io
+https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt
 
 Bücher:
 https://books.goalkicker.com
