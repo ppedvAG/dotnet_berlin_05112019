@@ -1,0 +1,57 @@
+https://marketplace.visualstudio.com/items?itemName=ErosFratini.ClippyVS
+https://www.draw.io
+
+Bücher:
+https://books.goalkicker.com
+
+DB Tools
+https://fishcodelib.com/index.htm
+
+Newletter mit .net news
+https://dotnetkicks.com
+
+Die Zukunft: .NET 5
+https://devblogs.microsoft.com/dotnet/introducing-net-5/
+https://devblogs.microsoft.com/dotnet/
+https://devblogs.microsoft.com/aspnet/
+https://devblogs.microsoft.com/xamarin/
+
+https://channel9.msdn.com
+
+https://www.hanselman.com
+JSON Serializer
+DataContractSerializer = Müll!
+NewtonSoft = Quasi Standard (https://www.newtonsoft.com/json)
+Ab Core 3.0 System.Text.Json  NEU und schneller
+
+https://app.quicktype.io
+
+WinForms GUI metro design
+https://github.com/dennismagno/metroframework-modern-ui
+
+WPF metro GUI
+https://mahapps.com
+WPF hübsche GUI
+https://github.com/benruehl/adonis-ui
+
+EbContext => Designer 
+https://marketplace.visualstudio.com/items?itemName=ErikEJ.EFCorePowerTools
+
+Bunte Klammern
+https://marketplace.visualstudio.com/items?itemName=TomasRestrepo.Viasfora 
+
+
+https://studios.ppedv.de/library
+http://blog.ppedv.de !!!!
+
+https://github.com/AdrienTorris/awesome-blazor
+
+https://webassembly.org
+
+
+EntityFramework Reverse POCO Generator
+https://marketplace.visualstudio.com/items?itemName=SimonHughes.EntityFrameworkReversePOCOGenerator
+
+REST api sammlung
+https://github.com/public-apis/public-apis
+https://cat-fact.herokuapp.com/#/
